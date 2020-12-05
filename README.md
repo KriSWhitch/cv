@@ -6,12 +6,13 @@
 * +375 (29) 379-72-94
 * [LinkedIn](https://www.linkedin.com/in/kriswhitch/)
 ### Обо мне
-Являюсь студентом, обучаюсь на IT факультете. Стремлюсь стать веб-разработчиком, и научиться работать с React. Хорошая обучаемость, эффективно работаю в команде и не имею проблем с коммуникацией внутри неё, соблюдаю сроки выполнения задания. Увлекаюсь иностранными языками.
+Являюсь студентом, обучаюсь на IT факультете. Хорошая обучаемость, эффективно работаю в команде и не имею проблем с коммуникацией внутри неё, соблюдаю сроки выполнения задания. Увлекаюсь иностранными языками.
 ### Навыки
-* Языки программирования: JavaScript (main), C++, C#, Apex
+* Языки программирования: C#, C++, JavaScript, Apex
 * Git/Github
 * SASS/Bootstrap 4, FlexBox и CSS Grid Layout/JQuery
 * Знание структур данных и сортировок
+* Основы ООП
 ### Примеры кода
 * [JS | Web](https://github.com/KriSWhitch/odigo-landing)
 * [Apex | Salesforce](https://github.com/KriSWhitch/Salesforce-Training/blob/master/ParkingApp/force-app/main/default/classes/lwnReadCsvFileController.cls)
